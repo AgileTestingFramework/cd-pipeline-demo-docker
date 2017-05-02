@@ -1,0 +1,10 @@
+*.class
+.settings
+.project
+.classpath
+target/
+
+# Terraform files
+**/terraform.tfstate
+**/terraform.tfstate.backup
+**/.terraform/*
